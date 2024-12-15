@@ -3,7 +3,7 @@ package extendedboard_package;
 import java.util.Random;
 
 /**
- * Author: Tridib Banik, Student Number: 400514461, MacID: banikt
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * This class epresents a smart computer player.
  * Inherits from the ComputerPlayer class and implements a more advanced strategy.
  */
