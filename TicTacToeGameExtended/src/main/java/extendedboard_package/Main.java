@@ -3,7 +3,7 @@ package extendedboard_package;
 import java.util.Scanner;
 
 /**
- * Author: Tridib Banik, Student Number: 400514461, MacID: banikt
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * This class represents the main game loop, handling user input, player creation, game setup, and game execution.
  */
 public class Main {

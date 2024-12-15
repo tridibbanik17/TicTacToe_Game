@@ -1,7 +1,7 @@
 package extendedboard_package;
 
 /**
- * Author: Tridib Banik, Student Number: 400514461, MacID: banikt
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * The ExtendedBoard class extends the Board class and adds functionality to check for a win condition.
  * It checks if a player has won based on a specified number of markers needed in a row, column, or diagonal.
  */

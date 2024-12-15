@@ -3,7 +3,7 @@ package three_by_three_board;
 import java.util.Arrays;
 
 /**
- * Author: Tridib Banik, McMaster University, Second year Software Engineering.
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * The Board class represents the game board in Tic-Tac-Toe.
  * It handles the grid initialization, display, and placement of markers.
  */

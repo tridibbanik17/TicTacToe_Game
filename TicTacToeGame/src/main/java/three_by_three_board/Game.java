@@ -1,7 +1,7 @@
 package three_by_three_board;
 
 /**
- * Author: Tridib Banik, McMaster University, Second year Software Engineering.
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * This class represents the Tic-Tac-Toe game itself.
  * It manages the game flow, handles player turns, and determines the winner or a draw.
  */

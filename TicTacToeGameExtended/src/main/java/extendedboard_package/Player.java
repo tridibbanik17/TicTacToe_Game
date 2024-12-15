@@ -2,7 +2,7 @@
 package extendedboard_package;
 
 /**
- * Author: Tridib Banik, Student Number: 400514461, MacID: banikt
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * This abstract class defines the Player for a Tic-Tac-Toe game.
  * It provides a base structure for different types of players (Human or Computer).
  */

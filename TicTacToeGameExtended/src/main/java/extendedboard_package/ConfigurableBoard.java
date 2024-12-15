@@ -3,7 +3,7 @@ package extendedboard_package;
 import java.util.Arrays;
 
 /**
- * Author: Tridib Banik, Student Number: 400514461, MacID: banikt
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * This class represents an extended Tic-Tac-Toe board that allows for customizable board size and win condition.
  * It inherits from the `Board` class and adds functionality to check for a win condition based on a specified number of markers in a row, column, or diagonal.
  */

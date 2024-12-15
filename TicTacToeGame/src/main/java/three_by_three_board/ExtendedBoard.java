@@ -1,7 +1,7 @@
 package three_by_three_board;
 
 /**
- * Author: Tridib Banik, McMaster University, Second year Software Engineering.
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * The ExtendedBoard class extends the Board class and adds functionality to check for a win condition.
  * It checks if a player has won based on a specified number of markers needed in a row, column, or diagonal.
  */

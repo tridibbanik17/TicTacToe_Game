@@ -3,7 +3,7 @@ package extendedboard_package;
 import java.util.Arrays;
 
 /**
- * Author: Tridib Banik, Student Number: 400514461, MacID: banikt
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * The Board class represents the game board in Tic-Tac-Toe.
  * It handles the grid initialization, display, and placement of markers.
  */

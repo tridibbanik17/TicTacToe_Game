@@ -3,7 +3,7 @@ package extendedboard_package;
 import java.util.Scanner;
 
 /**
- * Author: Tridib Banik, Student Number: 400514461, MacID: banikt
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * This class epresents a computer player.
  * It inherits from the Player class and provides a basic implementation for making random moves.
  */

@@ -1,7 +1,7 @@
 package extendedboard_package;
 
 /**
- * Author: Tridib Banik, Student Number: 400514461, MacID: banikt
+ * Author: Tridib Banik, McMaster University, Software Engineering Second year.
  * This class represents the Tic-Tac-Toe game itself.
  * It manages the game flow, handles player turns, and determines the winner or a draw.
  */
